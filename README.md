@@ -36,7 +36,7 @@ Adicionar repositório remoto no Eclipse:
 - Insira seu user do GitHub (no meu caso, é leticiaMarquesAPereira).
 - Gere um Token no GitHub e insira-o no lugar de SENHA.
   -- Se você tentar colocar sua senha GitHub, não funcionará. Se tiver dúvidas de como criar seu Token de acesso, assista esse [vídeo de 1 munitinho](https://www.youtube.com/watch?v=H_uyu9pzUE0).
-- Clique em Next e configure as branches (geralmente, master ou main).
+- Clique em Next e depois selecione a opção All Branches.
 - Clique em Finish.
 
 ##

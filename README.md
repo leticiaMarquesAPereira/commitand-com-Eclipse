@@ -19,8 +19,8 @@ Fazer commit dos arquivos:
 
 - Clique com o botão direito no projeto.
 - Vá em Team > Commit.
-- Adicione uma mensagem de commit e selecione os arquivos que deseja comitar.
-- Clique em Commit (ou Commit and Push se você já tiver um repositório remoto configurado).
+- Adicione uma mensagem de commit e selecione os arquivos que deseja comitar (só funcionará para os arquivos que você fez alguma modificação desde o último commit).
+- Clique em Commit.
 
 ##
       
@@ -33,7 +33,9 @@ Adicionar repositório remoto no Eclipse:
 - Clique com o botão direito no projeto.
 - Vá em Team > Remote > Push.
 - Configure a URL do repositório GitHub (copie a URL do repositório criado).
-- Gere um Token no GitHub e insira-o no lugar de SENHA (seu user vai ser o mesmo do GitHub)
+- Insira seu user do GitHub (no meu caso, é leticiaMarquesAPereira).
+- Gere um Token no GitHub e insira-o no lugar de SENHA.
+  -- Se você tentar colocar sua senha GitHub, não funcionará. Se tiver dúvidas de como criar seu Token de acesso, assista esse [vídeo de 1 munitinho](https://www.youtube.com/watch?v=H_uyu9pzUE0).
 - Clique em Next e configure as branches (geralmente, master ou main).
 - Clique em Finish.
 
